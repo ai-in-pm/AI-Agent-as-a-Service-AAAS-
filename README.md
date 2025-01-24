@@ -1,5 +1,7 @@
 # PhD-Level AI Agent as a Service (AAAS)
 
+This repository is still in "Beta". 
+
 A comprehensive AI Agent service that combines advanced research capabilities, technical expertise, and business intelligence with automation features. This service is designed to provide PhD-level analysis, insights, and automation for modern software development and business operations.
 
 ## Features
